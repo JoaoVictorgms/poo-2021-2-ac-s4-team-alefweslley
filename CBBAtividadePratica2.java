@@ -13,7 +13,7 @@ public class CBBAtividadePratica2 {
        int num1=20;
        int num2=40;
        int num3=50;
-       int soma=num1+num2+num3;;
+       int soma=num1+num2+num3;
        int media=soma/3;
        System.out.println("Soma dentro do print:");
        System.out.println(num1+num2+num3);
