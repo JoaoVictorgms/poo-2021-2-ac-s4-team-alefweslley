@@ -4,7 +4,7 @@
  * @author (alef) 
  * @version (um número da versão ou uma data)
  */
-public class BMExercio03
+public class BMExercio04
 { 
     public static void main(String[] args) {
     
