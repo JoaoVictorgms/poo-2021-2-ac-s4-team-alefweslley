@@ -11,14 +11,14 @@ c) (F) int num = 2.5;
 
 d) (V) double d = 20;
 
-e) (F) char c = 25;
+e) (V) char c = 25;
 
 f) (F) boolean epar = (4%2=0)
 
 g) (F) char nome = “Maria”;
 
-h) (F) String b = “1”
+h) (V) String b = “1”
 
 i) (F) float x = 2.7;
 
-j) (V) int a = false;
+j) (F) int a = false;
